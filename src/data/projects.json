@@ -1,26 +1,18 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "To Do App",
+    "imageSrc": "projects/project2.png",
+    "description": "The To-Do List app is a simple and intuitive tool designed to help users manage their daily tasks efficiently. This app allows you to create, edit, and delete tasks.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://charles-vtoc.onrender.com",
+    "source": "https://github.com/CharlesG0713/charles"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "MysticHome Creations",
+    "imageSrc": "projects/project1.png",
+    "description": "MysticHome Creations is your premier destination for beautifully crafted wood and bamboo furniture that transforms your home into a serene sanctuary. Each item is meticulously handcrafted. ",
+    "skills": ["Figma"],
+    "demo": "https://www.figma.com/proto/1xQNoxQt0BhP5f0WqITm2a/MysticHome-Creations?node-id=0-1&t=pWdcvJROYo269EsZ-1",
+    "source": "https://www.figma.com/design/1xQNoxQt0BhP5f0WqITm2a/MysticHome-Creations?node-id=0-1&m=dev&t=pWdcvJROYo269EsZ-1"
   }
 ]
